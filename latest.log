@@ -1,0 +1,21 @@
+Initializing MobileGlues ...
+The Open Source License of MobileGlues: 
+  GNU LGPL-2.1 License
+MG_DIR_PATH = (null)
+[MobileGlues] Setting: enableAngle                 = false
+[MobileGlues] Setting: ignoreError                 = 0
+[MobileGlues] Setting: enableExtComputeShader      = false
+[MobileGlues] Setting: enableExtGL43               = false
+[MobileGlues] Setting: enableExtTimerQuery         = true
+[MobileGlues] Setting: enableExtDirectStateAccess  = true
+[MobileGlues] Setting: maxGlslCacheSize            = 32
+[MobileGlues] Setting: multidrawMode               = Auto
+[MobileGlues] Setting: angleDepthClearFixMode      = 0
+[MobileGlues] Setting: bufferCoherentAsFlush       = 1
+[MobileGlues] Setting: customGLVersion             = 4.0.0
+[MobileGlues] Setting: fsr1Setting                 = 0
+EGL initialized successfully
+OpenGL ES Version: OpenGL ES 3.2 (320)
+Not Detected GL_EXT_multi_draw_indirect!
+multidrawMode = Auto
+    -> Indirect (Auto detected)
