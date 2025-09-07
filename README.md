@@ -1,5 +1,6 @@
 # SoilZhu 
-![Image_1751267517922](https://github.com/user-attachments/assets/e20dfc81-5c45-4dd9-98ee-d81953bbd648)
+<p style="display:none"></p>
+![[Image_1751267517922](https://qm.qq.com/q/K0XzhijnmE)](https://github.com/user-attachments/assets/e20dfc81-5c45-4dd9-98ee-d81953bbd648)
 ![Image_1753341784276](https://github.com/user-attachments/assets/cf5470d2-51da-4e20-8650-f909282c789d)
 ![1000023115](https://github.com/user-attachments/assets/d92273a8-a15d-430d-a7d4-f28bad5166b5)
 ![](https://raw.githubusercontent.com/rainfish9979/rainfish9979/refs/heads/main/Image_1757000772048.jpg)
